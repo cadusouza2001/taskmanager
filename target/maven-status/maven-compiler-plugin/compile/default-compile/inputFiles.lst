@@ -1,0 +1,16 @@
+/app/src/main/java/com/unisinos/taskmanager/TaskmanagerApplication.java
+/app/src/main/java/com/unisinos/taskmanager/controller/AuthController.java
+/app/src/main/java/com/unisinos/taskmanager/controller/UserController.java
+/app/src/main/java/com/unisinos/taskmanager/dto/AuthResponseDTO.java
+/app/src/main/java/com/unisinos/taskmanager/dto/LoginRequestDTO.java
+/app/src/main/java/com/unisinos/taskmanager/dto/UserRegisterDTO.java
+/app/src/main/java/com/unisinos/taskmanager/dto/UserResponseDTO.java
+/app/src/main/java/com/unisinos/taskmanager/dto/UserUpdateDTO.java
+/app/src/main/java/com/unisinos/taskmanager/entity/User.java
+/app/src/main/java/com/unisinos/taskmanager/exception/DuplicateEmailException.java
+/app/src/main/java/com/unisinos/taskmanager/exception/UserNotFoundException.java
+/app/src/main/java/com/unisinos/taskmanager/repository/UserRepository.java
+/app/src/main/java/com/unisinos/taskmanager/security/JwtAuthenticationFilter.java
+/app/src/main/java/com/unisinos/taskmanager/security/JwtService.java
+/app/src/main/java/com/unisinos/taskmanager/security/SecurityConfig.java
+/app/src/main/java/com/unisinos/taskmanager/service/UserService.java
